@@ -2,7 +2,6 @@
 
 ## Используемые технологии
 * VS Code
-* html
-* css
-* W3C
-* GitHub и Gitpages
+* PHP
+* PHP sandbox onlinephp.io
+* GitHub
