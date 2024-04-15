@@ -139,5 +139,4 @@ return $partnerResult;
     }
 }
 
-echo (getPerfectPartner ('Иванов', 'ИВАН', 'иванович', $example_persons_array))
 ?>
